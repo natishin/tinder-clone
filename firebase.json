@@ -1,0 +1,7 @@
+{
+  "rulesFile": "build",
+  "firestore": {
+    "rules": "build",
+    "indexes": "builf"
+  }
+}
